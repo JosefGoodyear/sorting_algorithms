@@ -4,3 +4,5 @@
 * Insertion Sort
 * Selection Sort
 * Quick Sort
+* Merge Sort
+* Counting Sort
